@@ -1,4 +1,4 @@
-# DevOps16
+# DevOps17
 
 This vagrant will install 3 Linux Ubuntu machines, 2x Linux servers and 1 ubuntu server with Ansible.
 It will add some default users, groups and directory's.
@@ -33,8 +33,8 @@ Open **Git Bash** in Windows
 ```
 cd Documents
 mkdir vagrant && cd vagrant
-git clone https://github.com/borahuho/DevOps16
-cd DevOps16
+git clone https://github.com/borahuho/DevOps17
+cd DevOps17
 vagrant up
 vagrant ssh ansible
 ```
